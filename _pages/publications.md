@@ -10,6 +10,7 @@ redirect_from:
 
 **Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL**  
 **Ian Wu**, Yuxiao Qu, Amrith Setlur, Aviral Kumar  
+*ICML 2026*  
 *ICLR 2026 Workshop on Scaling Post-training for LLMs (Oral)*  
 [Paper](https://arxiv.org/pdf/2602.03773)
 
